@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "합성곱(Convolution Operation).md",
+                "file": "4. 머신러닝(Machine Learning).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "합성곱(Convolution Operation)"
+              "title": "4. 머신러닝(Machine Learning)"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "4dbaf1172c28ff14",
   "lastOpenFiles": [
+    "합성곱(Convolution Operation).md",
     "Activation Function.md",
     "1. Vision 기반 로봇 자율주행 ==========.md",
     "4. 머신러닝(Machine Learning).md",
@@ -201,7 +202,6 @@
     "3. OPenCV.md",
     "2.1 NumPy.md",
     "무제",
-    "합성곱(Convolution Operation).md",
     "강화학습.md",
     "images/지도vs비지도.png",
     "지도vs비지도.png",
