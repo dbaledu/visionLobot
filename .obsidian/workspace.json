@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. 머신러닝(Machine Learning).md",
+                "file": "5.1 ANN, MLP, DNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 머신러닝(Machine Learning)"
+              "title": "5.1 ANN, MLP, DNN"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "4dbaf1172c28ff14",
   "lastOpenFiles": [
+    "5. 딥러닝(Deep Learning).md",
+    "4. 머신러닝(Machine Learning).md",
     "5.1 ANN, MLP, DNN.md",
     "Pasted image 20260914233650.png",
     "Pasted image 20260914232954.png",
@@ -194,7 +196,6 @@
     "Pasted image 20260914231631.png",
     "Pasted image 20260914231612.png",
     "Pasted image 20260914224029.png",
-    "5. 딥러닝(Deep Learning).md",
     "MLP.md",
     "5.3 RNN.md",
     "5.2 CNN.md",
@@ -202,7 +203,6 @@
     "Pasted image 20260914220236.png",
     "Pasted image 20260914214817.png",
     "Pasted image 20260914214304.png",
-    "4. 머신러닝(Machine Learning).md",
     "합성곱(Convolution Operation).md",
     "Activation Function.md",
     "1. Vision 기반 로봇 자율주행 ==========.md",
