@@ -11,10 +11,14 @@
             "id": "52061321954038f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5.2 CNN.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "5.2 CNN"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 200
   },
   "right": {
     "id": "753b42f02940f557",
@@ -183,27 +187,23 @@
   },
   "active": "8868ec2bc070afe0",
   "lastOpenFiles": [
-    "5.3 RNN.md",
-    "5.2 CNN.md",
-    "무제.md",
-    "4. 머신러닝(Machine Learning).md",
-    "5. 딥러닝(Deep Learning).md",
-    "2. Python.md",
-    "ml_map.svg",
-    "5.4 transformer.md",
-    "5.1 ANN, MLP, DNN.md",
-    "Pasted image 20260917160150.png",
-    "Pasted image 20260916162124.png",
-    "Pasted image 20260916160705.png",
-    "1. Vision 기반 로봇 자율주행 ==========.md",
-    "Pasted image 20260916155340.png",
-    "Pasted image 20260916155152.png",
-    "Pasted image 20260916155005.png",
-    "Pasted image 20260916154933.png",
-    "Pasted image 20260916142321.png",
-    "Pasted image 20260914233650.png",
-    "MLP.md",
     "합성곱(Convolution Operation).md",
+    "5.2 CNN.md",
+    "4. 머신러닝(Machine Learning).md",
+    "5.1 ANN, MLP, DNN.md",
+    "5. 딥러닝(Deep Learning).md",
+    "Pasted image 20260914233650.png",
+    "Pasted image 20260914232954.png",
+    "Pasted image 20260914231735.png",
+    "Pasted image 20260914231631.png",
+    "Pasted image 20260914231612.png",
+    "Pasted image 20260914224029.png",
+    "MLP.md",
+    "5.3 RNN.md",
+    "Pasted image 20260914220925.png",
+    "Pasted image 20260914220236.png",
+    "Pasted image 20260914214817.png",
+    "Pasted image 20260914214304.png",
     "Activation Function.md",
     "Perceptron.md",
     "2.2 시각화 라이브러리 =====.md",
