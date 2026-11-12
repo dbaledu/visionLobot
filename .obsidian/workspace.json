@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a8db65562b4980",
+        "id": "6114b1002681fb7c",
         "type": "tabs",
         "children": [
           {
-            "id": "aac6949a0a131365",
+            "id": "428b5f92dcbd8223",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업/50일차(1105).md",
+                "file": "수업/55일차(1112)-거리측정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "50일차(1105)"
+              "title": "55일차(1112)-거리측정"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "YOLO",
+                "query": "_openni2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 200
   },
   "right": {
     "id": "753b42f02940f557",
@@ -185,43 +185,43 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "aac6949a0a131365",
+  "active": "428b5f92dcbd8223",
   "lastOpenFiles": [
-    "images/jackson04.png",
-    "수업/50일차(1105).md",
-    "images/jackson03.png",
-    "images/jackson02.png",
-    "images/jackson01.png",
-    "Pasted image 20261027110802.png",
-    "수업/52일차(1109).md",
+    "수업/OpenNI2.md",
+    "수업/52일차(1109) Astra 카메라-event.md",
+    "수업/55일차(1112)-거리측정.md",
+    "Pasted image 20261112110621.png",
+    "수업/50일차(1105) 잭슨나노 개발환경 구축.md",
+    "수업/53일차(1110) event-vs-polling.md",
+    "수업/54일차(1111) Jackson 연결.md",
+    "STEP-로봇센서 신호와 최적 추정.md",
+    "step01.png",
+    "Pasted image 20261111153619.png",
+    "수업/임베디드 보드.md",
+    "3-1 OpenCV 커리큘럼.md",
+    "Pasted image 20261110152413.png",
+    "Pasted image 20261110151943.png",
+    "Pasted image 20261110151733.png",
+    "3. OPenCV.md",
+    "Pasted image 20261110121255.png",
+    "Pasted image 20261110121242.png",
+    "Pasted image 20261110121223.png",
+    "Pasted image 20261110121204.png",
+    "수업/cuda 설정.md",
+    "경량화.md",
+    "SLAM.md",
+    "수업/56일차(1113).md",
+    "수업/51일차(1106) 챌린지 발표 준비.md",
+    "수업/22일차(0922)- 파이썬 모듈, Antigravity IDE, OpenCV.md",
+    "수업/21일차(0921)- 파이썬 클래스.md",
+    "수업/15일차(0911)- 상관관계, 딥러닝.md",
     "수업/49일차(1104)-YOLO를 활용한 횡단보도 보행자 보호시스템.md",
     "수업/42일차(1026)-faster R-CNN, YOLOv8, SSD.md",
     "수업/40일차(1022) 전이학습.md",
-    "Pasted image 20261104135209.png",
-    "images/1104_1.png",
-    "Pasted image 20261104101913.png",
-    "Pasted image 20261104122450.png",
     "수업/41일차(1023) pytorch 객체탐지.세그멘테이션.md",
-    "Pasted image 20261104094457.png",
     "수업/48일차(1103)  From scratch와 전이학습 모델 사용하기 2.md",
     "수업/47일차(1102) From scratch와 전이학습 모델 사용하기 1.md",
     "2.2 시각화 라이브러리 =====.md",
-    "무제.md",
-    "수업/43일차(1027)- segmentation.md",
-    "수업/44일차(1028)-Semantic Segmentation.md",
-    "수업/45일차(1029)-Instance Segmentaion.md",
-    "수업/46일차(1030)-파노픽 세그멘테이션.md",
-    "수업/cuda 설정.md",
-    "수업/수학이론.md",
-    "수업/39일차(1021) 이미지 변환, 데이터증강.md",
-    "수업/51일차(1106).md",
-    "수업/38일차(1020) pytorch-CNN.md",
-    "수업/37일차(1019) pytorch-DNN.md",
-    "수업/36일차(1016) CNN.md",
-    "수업/35일차(1015) CNN(tensorflow).md",
-    "5.2 CNN.md",
-    "5.1 ANN, MLP, DNN.md",
-    "수업/13일차(0909)- random forest,  Ensemble.md",
     "수업",
     "images",
     "새 폴더"
